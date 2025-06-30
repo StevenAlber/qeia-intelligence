@@ -26,7 +26,7 @@ This whitepaper is part of the core epistemic framework of the [KRYONIS Project]
 
 ## File
 
-- [`QEIA_KRYONIS_Whitepaper_2025.pdf`](./QEIA_KRYONIS_Whitepaper_2025.pdf)
+- [`[QEIA_Architecture_Timeless_Cognition_KRYONIS_Whitepaper_June_30_2025.pdf](./QEIA_Architecture_Timeless_Cognition_KRYONIS_Whitepaper_June_30_2025.pdf))
 
 This file is verified by the integrity hash above. Please ensure SHA-256 matches before citing or integrating.
 
